@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="1_1\1_1.cpp" />
     <ClCompile Include="1_2\1_2.cpp" />
+    <ClCompile Include="1_3\1_3.cpp" />
     <ClCompile Include="2_3\2_3.cpp" />
     <ClCompile Include="2_4\2_4.cpp" />
     <ClCompile Include="2_5\2_5.cpp" />
@@ -151,6 +152,9 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="1_1\1_1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1_3\README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

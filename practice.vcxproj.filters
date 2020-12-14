@@ -42,10 +42,18 @@
     <ClCompile Include="1_1\1_1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1_3\1_3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="1_1\1_1.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1_3\README.md">
+      <Filter>Исходные файлы</Filter>
+    </None>
   </ItemGroup>
 </Project>

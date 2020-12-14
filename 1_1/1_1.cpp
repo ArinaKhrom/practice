@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-int main() {
+int main1_1() {
     int max, a, b, c; 
     cin >> a >> b >> c;
 
